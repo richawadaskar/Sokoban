@@ -1,2 +1,1 @@
-# Sokoban
-Sokoban style game where the user needs to push blocks to a specific tile. 
+[Here](https://docs.google.com/document/d/1ifD6bdtyV0nSzQiVeveftOnR3q8jDopBOCo4qOOYRzc/edit?usp=sharing) is a link to a doc describing our game.
